@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to top, rgb(245, 249, 250) 50%, rgba(14, 12, 12, 0.2) 95%);
+    display: flex;
+    justify-content: center;
+}
+
+.titulo{
+    font-size: larger;
+    color: red;
+}
